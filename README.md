@@ -20,16 +20,6 @@ I'm a BS AI Student at SZABIST Islamabad, passionate about Artificial Intelligen
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
-
-### 🏆 My Achievements
-<p align="left">
-  <img src="https://github-profile-trophies.vercel.app/?username=haroon-ai1&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Haroon's Trophies" />
-</p>
-
-### 📊 My Activity
-<p align="left">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=haroon-ai1&theme=radical&hide_border=true" alt="Haroon's Streak" />
-</p>
 ---
 <a href="https://www.linkedin.com/in/haroon-ai" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
