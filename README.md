@@ -6,7 +6,7 @@ I'm a BS AI Student at SZABIST Islamabad, passionate about Artificial Intelligen
 - 🌱 I’m currently learning **Deep Learning (LSTM/CNN)**, **Computer Vision**, and **NLP**.
 - 👯 I’m looking to collaborate on **Python & AI Projects**.
 - 💬 Ask me about **Machine Learning, TensorFlow, and IoT.**
-- ⚡ Fun fact: I turned a 1990 Toyota Corolla into a project car! 🚗
+- 
 
 ---
 
@@ -19,7 +19,6 @@ I'm a BS AI Student at SZABIST Islamabad, passionate about Artificial Intelligen
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
----
 ---
 <a href="https://www.linkedin.com/in/haroon-ai" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
