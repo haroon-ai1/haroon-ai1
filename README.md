@@ -21,10 +21,15 @@ I'm a BS AI Student at SZABIST Islamabad, passionate about Artificial Intelligen
 
 ---
 
-### 📊 My GitHub Stats
-![Haroon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haroon-ai1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haroon-ai1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 My Achievements
+<p align="left">
+  <img src="https://github-profile-trophies.vercel.app/?username=haroon-ai1&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Haroon's Trophies" />
+</p>
 
+### 📊 My Activity
+<p align="left">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=haroon-ai1&theme=radical&hide_border=true" alt="Haroon's Streak" />
+</p>
 ---
 <a href="https://www.linkedin.com/in/haroon-ai" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
