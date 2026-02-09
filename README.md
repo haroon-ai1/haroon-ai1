@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi there, I'm Haroon! 👋
 
-<!--
-**haroon-ai1/haroon-ai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BS AI Student at SZABIST Islamabad, passionate about Artificial Intelligence, Deep Learning, and building intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **X-Analytics (AI Finance Manager)** and **AgriVision Pro**.
+- 🌱 I’m currently learning **Deep Learning (LSTM/CNN)**, **Computer Vision**, and **NLP**.
+- 👯 I’m looking to collaborate on **Python & AI Projects**.
+- 💬 Ask me about **Machine Learning, TensorFlow, and IoT.**
+- ⚡ Fun fact: I turned a 1990 Toyota Corolla into a project car! 🚗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+---
+
+### 📊 My GitHub Stats
+![Haroon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haroon-ai1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haroon-ai1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<a href="https://www.linkedin.com/in/haroon-ai" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
