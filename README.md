@@ -6,8 +6,6 @@ I'm a BS AI Student at SZABIST Islamabad, passionate about Artificial Intelligen
 - 🌱 I’m currently learning **Deep Learning (LSTM/CNN)**, **Computer Vision**, and **NLP**.
 - 👯 I’m looking to collaborate on **Python & AI Projects**.
 - 💬 Ask me about **Machine Learning, TensorFlow, and IoT.**
-- 
-
 ---
 
 ### 🛠️ Languages and Tools
