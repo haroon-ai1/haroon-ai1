@@ -1,5 +1,7 @@
 ### Hi there, I'm Haroon! 👋
-![CV](https://drive.google.com/file/d/1O7yuiV9XJzLPoZ5q4ezqMxMUGUQG3SsS/view?usp=sharing)
+
+
+<a href="https://drive.google.com/file/d/1O7yuiV9XJzLPoZ5q4ezqMxMUGUQG3SsS/view?usp=sharing" target="_blank">
 I'm a BS AI Student at SZABIST Islamabad, passionate about Artificial Intelligence, Deep Learning, and building intelligent systems that solve real-world problems.
 
 - 🔭 I’m currently working on **X-Analytics (AI Finance Manager)** and **AgriVision Pro**.
