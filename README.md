@@ -1,9 +1,6 @@
 ### Hi there, I'm Haroon! 👋
 
 
-<a href="https://drive.google.com/file/d/1O7yuiV9XJzLPoZ5q4ezqMxMUGUQG3SsS/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
 
 ---
   I'm a BS AI Student at SZABIST Islamabad, passionate about Artificial Intelligence, Deep Learning, and building intelligent systems that solve real-world problems.
